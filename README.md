@@ -1,2 +1,2 @@
 # GDP-Predictor
-Machine Learning through analysis of GDP 
+Machine Learning through the Analysis of GDP 
